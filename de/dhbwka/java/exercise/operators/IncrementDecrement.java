@@ -1,5 +1,7 @@
 package de.dhbwka.java.exercise.operators;
 
+//noch nicht in Vorlesung gemacht!
+
 public class IncrementDecrement {
     public static void main(String[] args) {
         int i = 0;
